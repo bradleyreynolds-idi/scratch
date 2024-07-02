@@ -1,0 +1,12 @@
+/* Blank Canvas - Start Screen */
+ div.tools-panels .actions li:nth-child(1) {
+     display: none;
+}
+/* Design Added - Layers Panel */
+ div.tools-panels .actions div:nth-child(1) {
+     display: none;
+}
+/* Mobile Actions Footer */
+ li#mobileFooterAddTxt {
+     display: none;
+}
